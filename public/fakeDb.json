@@ -1,0 +1,137 @@
+[
+  {
+    "index": 0,
+    "_key": "38EE21A5-996B-5E85-58E5-9CD62925CE72",
+    "course": "Introduction to Programming",
+    "author": "Kyra Wilson",
+    "price": 126,
+    "rating": 4.3,
+    "image": "https://i.imgur.com/jFcWbYb.jpg"
+  },
+  {
+    "index": 1,
+    "_key": "D1EE2ED2-853C-C8C7-C68E-3DA380EBE49E",
+    "course": "Basic Python Programming",
+    "author": "Callie Velasquez",
+    "price": 291,
+    "rating": 4.1,
+    "image": "https://i.imgur.com/vg5SjUA.png"
+  },
+  {
+    "index": 2,
+    "_key": "63CF2DB6-53BD-2DB9-82EE-E5725EBA1D49",
+    "course": "Basic C Programming",
+    "author": "Shellie Mercer",
+    "price": 244,
+    "rating": 3.9,
+    "image": "https://i.imgur.com/qAd4lui.jpg"
+  },
+  {
+    "index": 3,
+    "_key": "5BE5BC71-85A4-4E59-85C2-1DFCBE7CFC9F",
+    "course": "Advanced C Programming",
+    "author": "Jordan Daniels",
+    "price": 259,
+    "rating": 3.9,
+    "image": "https://i.imgur.com/1GH9tli.jpg"
+  },
+  {
+    "index": 4,
+    "_key": "52ABC3F6-52AC-9EEF-CCCB-7C8F10EE17FC",
+    "course": "C++ Programming",
+    "author": "Montana Sellers",
+    "price": 474,
+    "rating": 4.5,
+    "image": "https://i.imgur.com/v06bdBE.jpg"
+  },
+  {
+    "index": 5,
+    "_key": "732185BA-05A8-6581-BAE7-3CEB7C9CA26A",
+    "course": "Graphics Design Basics",
+    "author": "Lewis Richard",
+    "price": 286,
+    "rating": 3.7,
+    "image": "https://i.imgur.com/eYB8ZoQ.jpg"
+  },
+  {
+    "index": 6,
+    "_key": "1D7B0EE9-5CBD-6EBC-ADC7-8D954618D71E",
+    "course": "Colors - Graphics Designing",
+    "author": "Nasim Shaffer",
+    "price": 244,
+    "rating": 4.2,
+    "image": "https://i.imgur.com/ILYiTWU.jpg"
+  },
+  {
+    "index": 7,
+    "_key": "51A37844-B6B7-0149-0527-63653C62BAD8",
+    "course": "Complete Photoshop Course",
+    "author": "Jerry West",
+    "price": 447,
+    "rating": 4.0,
+    "image": "https://i.imgur.com/jTljQPC.jpg"
+  },
+  {
+    "index": 8,
+    "_key": "2F977D44-048F-C146-70F5-2892C29B2235",
+    "course": "Basic Java Programming",
+    "author": "Raya Carey",
+    "price": 178,
+    "rating": 4.3,
+    "image": "https://i.imgur.com/qFC65mE.jpg"
+  },
+  {
+    "index": 9,
+    "_key": "8E3F81CA-CED3-145B-6D7D-6DA484274D66",
+    "course": "Introduction to Web Development",
+    "author": "Jessamine Mcfadden",
+    "price": 347,
+    "rating": 4.2,
+    "image": "https://i.imgur.com/5boZF3N.jpg"
+  },
+  {
+    "index": 10,
+    "_key": "055DFC12-C689-AC85-5E98-24E67A204D02",
+    "course": "A-Z CSS Course",
+    "author": "Jolie O'neill",
+    "price": 269,
+    "rating": 4.0,
+    "image": "https://i.imgur.com/wolNcLD.jpg"
+  },
+  {
+    "index": 11,
+    "_key": "749FB9EE-354C-CF1F-24D3-C5E76BBDA6AC",
+    "course": "Complete Javascript Programming",
+    "author": "Jessamine Riggs",
+    "price": 479,
+    "rating": 4.2,
+    "image": "https://i.imgur.com/49YYTic.jpg"
+  },
+  {
+    "index": 12,
+    "_key": "771F48C1-B22C-6EA7-A367-4CC17D32D9E5",
+    "course": "Vector Design with Adobe Illustrator",
+    "author": "Briar Kline",
+    "price": 280,
+    "rating": 4.4,
+    "image": "https://i.imgur.com/yTdQ0WF.jpg"
+  },
+  {
+    "index": 13,
+    "_key": "AB494981-3A9A-064F-5DBB-915A5C466752",
+    "course": "Simple Premiere Pro",
+    "author": "Nehru Bowers",
+    "price": 440,
+    "rating": 3.8,
+    "image": "https://i.imgur.com/Hdd8kFA.png"
+  },
+  {
+    "index": 14,
+    "_key": "51D97459-C94C-205D-C9B9-9040453213B8",
+    "course": "Complete After Effects Course",
+    "author": "Dana Pittman",
+    "price": 349,
+    "rating": 4.0,
+    "image": "https://i.imgur.com/BQiu1BG.png"
+  }
+]

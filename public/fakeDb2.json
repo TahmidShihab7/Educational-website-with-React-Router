@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "_key": "38EE21A5-996B-5E85-58E5-9CD62925CE72",
+    "course": "Introduction to Programming",
+    "author": "Kyra Wilson",
+    "price": 126,
+    "rating": 4.3,
+    "image": "https://i.imgur.com/jFcWbYb.jpg"
+  },
+  {
+    "index": 1,
+    "_key": "D1EE2ED2-853C-C8C7-C68E-3DA380EBE49E",
+    "course": "Basic Python Programming",
+    "author": "Callie Velasquez",
+    "price": 291,
+    "rating": 4.1,
+    "image": "https://i.imgur.com/vg5SjUA.png"
+  },
+  {
+    "index": 2,
+    "_key": "63CF2DB6-53BD-2DB9-82EE-E5725EBA1D49",
+    "course": "Basic C Programming",
+    "author": "Shellie Mercer",
+    "price": 244,
+    "rating": 3.9,
+    "image": "https://i.imgur.com/qAd4lui.jpg"
+  },
+  {
+    "index": 3,
+    "_key": "5BE5BC71-85A4-4E59-85C2-1DFCBE7CFC9F",
+    "course": "Advanced C Programming",
+    "author": "Jordan Daniels",
+    "price": 259,
+    "rating": 3.9,
+    "image": "https://i.imgur.com/1GH9tli.jpg"
+  }
+]
